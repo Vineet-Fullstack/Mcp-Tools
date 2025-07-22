@@ -30,3 +30,6 @@ To configure MCP servers in VS Code, add the following configuration to your set
 This configuration allows you to run MCP tools locally by specifying the Python command and the path to each tool script. Make sure the paths are correct and point to your MCP tool scripts.
 
 For more details, see the documentation in the `docs/` folder.
+
+
+<img width="517" height="717" alt="image" src="https://github.com/user-attachments/assets/4eb93f8a-5bf2-4a44-92ee-652a68c4c4f7" />
