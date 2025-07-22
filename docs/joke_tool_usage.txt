@@ -1,0 +1,8 @@
+Joke Tool Usage
+--------------
+This tool fetches a random joke from the Official Joke API.
+
+Example usage:
+- Query: "Tell me a joke."
+- Tool: get_joke
+- Response: {"setup": "Why did the chicken cross the road?", "punchline": "To get to the other side!"}

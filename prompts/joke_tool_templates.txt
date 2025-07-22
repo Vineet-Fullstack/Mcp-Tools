@@ -1,0 +1,5 @@
+# Joke Tool Prompt Examples
+
+Tell me a joke.
+Give me something funny.
+Make me laugh.

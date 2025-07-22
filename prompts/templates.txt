@@ -1,0 +1,2 @@
+# Prompt templates for MCP Calculator Server
+# Add your prompt templates below.

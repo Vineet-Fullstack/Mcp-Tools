@@ -1,0 +1,8 @@
+Time Tool Usage
+---------------
+This tool provides the current system time.
+
+Example usage:
+- Query: "What is the time now?"
+- Tool: get_time
+- Response: {"current_time": "2025-07-22 11:50:40"}

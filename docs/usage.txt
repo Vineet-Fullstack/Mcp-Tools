@@ -1,0 +1,5 @@
+Usage instructions for MCP Calculator Server:
+
+- Run the server with: python calculator.py
+- Use available tools: add, subtract, multiply, divide
+- Tools are registered via MCP and callable by clients.
