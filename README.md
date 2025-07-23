@@ -33,3 +33,5 @@ For more details, see the documentation in the `docs/` folder.
 
 
 <img width="517" height="717" alt="image" src="https://github.com/user-attachments/assets/4eb93f8a-5bf2-4a44-92ee-652a68c4c4f7" />
+<img width="746" height="462" alt="image" src="https://github.com/user-attachments/assets/68bbde10-0b23-403d-8d6a-b55b5f815859" />
+
