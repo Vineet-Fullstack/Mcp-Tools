@@ -1,0 +1,18 @@
+[
+  {
+    "nl_query": "merchants created after June 2024",
+    "search_header": "created[greater]=20240601"
+  },
+  {
+    "nl_query": "merchants created before 1st Aug 2025",
+    "search_header": "created[less]=20250801"
+  },
+  {
+    "nl_query": "get merchants with status 2",
+    "search_header": "status[equals]=2"
+  },
+  {
+    "nl_query": "find merchants where dba contains 'Test'",
+    "search_header": "dba[like]=Test"
+  }
+]

@@ -1,0 +1,17 @@
+Query: get merchants created after July 2023
+Search: created[greater]=20230701
+
+Query: get merchants created before 2025-08-01
+Search: created[less]=20250801
+
+Query: merchants with dba 'Referrer Test Merchant'
+Search: dba[equals]=Referrer Test Merchant
+
+Query: merchants with status 2
+Search: status[equals]=2
+
+Query: merchants where dba contains 'Supermarket'
+Search: dba[like]=Supermarket
+
+Query: get merchants created before 2025-08-01 and with entity t1_ent_687e864cd3038063a6d63dc
+Search: created[less]=20250801&entity[equals]=t1_ent_687e864cd3038063a6d6000
